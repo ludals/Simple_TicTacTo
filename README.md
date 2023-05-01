@@ -1,2 +1,3 @@
 # Simple_TicTacTo
-틱 택 토
+
+GPT가 만들어 보래요..
